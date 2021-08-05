@@ -1,0 +1,13 @@
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\bin\Debug\netcoreapp3.1\kombinasyonBulma.exe
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\bin\Debug\netcoreapp3.1\kombinasyonBulma.deps.json
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\bin\Debug\netcoreapp3.1\kombinasyonBulma.runtimeconfig.json
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\bin\Debug\netcoreapp3.1\kombinasyonBulma.runtimeconfig.dev.json
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\bin\Debug\netcoreapp3.1\kombinasyonBulma.dll
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\bin\Debug\netcoreapp3.1\kombinasyonBulma.pdb
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\obj\Debug\netcoreapp3.1\kombinasyonBulma.csprojAssemblyReference.cache
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\obj\Debug\netcoreapp3.1\kombinasyonBulma.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\obj\Debug\netcoreapp3.1\kombinasyonBulma.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\obj\Debug\netcoreapp3.1\kombinasyonBulma.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\obj\Debug\netcoreapp3.1\kombinasyonBulma.dll
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\obj\Debug\netcoreapp3.1\kombinasyonBulma.pdb
+C:\Users\Aleyna\source\repos\kombinasyonBulma\kombinasyonBulma\obj\Debug\netcoreapp3.1\kombinasyonBulma.genruntimeconfig.cache

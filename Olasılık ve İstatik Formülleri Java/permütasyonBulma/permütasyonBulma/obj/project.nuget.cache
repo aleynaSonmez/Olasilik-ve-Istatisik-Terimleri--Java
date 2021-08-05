@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/ylFtQT8NjAhyh4kMQTL4mvhMuEZl4BegjygThjwTOnsdxpRhXJOVHyv/tJScC2UWodhw24PbypdtuEcinI9Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleyna\\source\\repos\\permütasyonBulma\\permütasyonBulma\\permütasyonBulma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleyna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

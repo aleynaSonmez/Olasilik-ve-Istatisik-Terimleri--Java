@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lp/roCE5eCoH9PKah0xM6KclnVYn1zJbOVebyy7jaO4Ov92mIr82XFD46UgKNszlhoHho+Fd0fEZFg9CNMVstA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleyna\\source\\repos\\kombinasyonBulma\\kombinasyonBulma\\kombinasyonBulma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleyna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

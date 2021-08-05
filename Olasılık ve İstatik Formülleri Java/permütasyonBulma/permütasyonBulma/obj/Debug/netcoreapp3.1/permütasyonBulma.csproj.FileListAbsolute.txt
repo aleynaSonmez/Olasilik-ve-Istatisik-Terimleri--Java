@@ -1,0 +1,12 @@
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\bin\Debug\netcoreapp3.1\permütasyonBulma.exe
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\bin\Debug\netcoreapp3.1\permütasyonBulma.deps.json
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\bin\Debug\netcoreapp3.1\permütasyonBulma.runtimeconfig.json
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\bin\Debug\netcoreapp3.1\permütasyonBulma.runtimeconfig.dev.json
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\bin\Debug\netcoreapp3.1\permütasyonBulma.dll
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\bin\Debug\netcoreapp3.1\permütasyonBulma.pdb
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\obj\Debug\netcoreapp3.1\permütasyonBulma.AssemblyInfoInputs.cache
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\obj\Debug\netcoreapp3.1\permütasyonBulma.AssemblyInfo.cs
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\obj\Debug\netcoreapp3.1\permütasyonBulma.csproj.CoreCompileInputs.cache
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\obj\Debug\netcoreapp3.1\permütasyonBulma.dll
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\obj\Debug\netcoreapp3.1\permütasyonBulma.pdb
+C:\Users\Aleyna\source\repos\permütasyonBulma\permütasyonBulma\obj\Debug\netcoreapp3.1\permütasyonBulma.genruntimeconfig.cache
